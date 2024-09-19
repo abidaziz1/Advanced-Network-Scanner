@@ -1,6 +1,6 @@
-# Network-Scanner
 # Advanced Network Scanner with SYN Scanning and Vulnerability Detection
-
+![Python](https://img.shields.io/badge/python-3.8-blue)
+![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)
 This tool is a Python-based network scanner that identifies active hosts, scans for open ports using stealthy SYN scans, detects services and operating systems, performs banner grabbing, and checks for potential vulnerabilities. It also includes functionality to save scan results in both JSON and CSV formats for further analysis.
 
 ## Features
@@ -12,6 +12,13 @@ This tool is a Python-based network scanner that identifies active hosts, scans 
 - **Vulnerability Detection**: Simple vulnerability assessment based on open ports and common weaknesses.
 - **Output Formats**: Saves results to both JSON and CSV files for easy access and review.
 - **Multithreaded Scanning**: Scans all TCP ports (1-65535) in parallel for fast results.
+## Use Cases
+
+- **Penetration Testing:** Use this tool to detect open ports, identify services, and run vulnerability scans on a target network.
+- **Ethical Hacking:** Identify potential security flaws in networks using SYN scanning and SSH brute-force techniques.
+- **Vulnerability Scanning:** Detect vulnerable services and operating systems by scanning all open ports.
+- **Network Security Audits:** Perform comprehensive network scans to audit your organization's network security posture.
+
 
 ## Prerequisites
 
