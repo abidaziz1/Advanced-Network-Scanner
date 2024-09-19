@@ -100,7 +100,7 @@ The results contain details about the hosts, open ports, OS and service informat
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
@@ -112,5 +112,5 @@ If you would like to contribute to the development of this tool, feel free to fo
 
 ## Contact
 
-For any questions or support, please open an issue in the repository or reach out via [your email/contact method].
+For any questions or support, please open an issue in the repository or reach out via AzizAbid1@proton.me.
 
